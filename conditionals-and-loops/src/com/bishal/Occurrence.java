@@ -11,7 +11,7 @@ public class Occurrence {
         System.out.println("Enter the number whose occurrence you want to check: ");
         int n = input.nextInt();
         int rem, count = 0;
-        while (num%10 != 0) {
+        while (num > 0) {
             rem = num % 10;
             if (rem == n) {
                 count++;
