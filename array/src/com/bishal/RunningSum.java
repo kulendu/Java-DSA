@@ -19,7 +19,6 @@ public class RunningSum {
 
      static int[] runningSum(int[] arr) {
         int[] ans = new int[arr.length];
-        int sum = 0;
          for (int i = 0; i < arr.length; i++) {
              for (int j = 0; j <= i; j++) {
                  ans[i] += arr[j];
