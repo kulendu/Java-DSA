@@ -1,5 +1,6 @@
 package com.bishal;
 import java.util.Scanner;
+//Linear search returns the index of the searched item and if the item is not found it returns -1
 
 public class Main {
 
