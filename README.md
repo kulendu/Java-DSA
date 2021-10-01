@@ -1,3 +1,7 @@
+<p align='center'>
+  <img src='https://w7.pngwing.com/pngs/769/163/png-transparent-professional-java-programmer-software-development-software-developer-others-miscellaneous-text-logo.png' height=200px width=200px>
+</p>
+
 ## `Java-DSA:`
 This repo is for practicing DSA using Java. It includes some *Leetcode* questions as well as some other for practicing.
 
